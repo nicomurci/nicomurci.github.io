@@ -1,0 +1,57 @@
+
+/*************************DISEÑO PAGINA 1 (INFORMACION)************************/
+*{
+    transition: all 0.25s;
+}	
+
+body{
+    margin: 0;
+    padding: 0;
+    background: steelblue;
+    background-image: url(https://i.ibb.co/c6R93Js/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+titulo {
+	font-size: 25px;
+	font-weight: 500;
+	text-align: center;
+	margin-bottom: 80px;
+	text-transform: uppercase;
+	color: #141414;
+	border: 5px solid #141414;
+	padding: 5px 10px;
+	display: inline-block;
+}
+
+title2 {
+	font-size: 25px;
+	font-weight: 500;
+	text-align: center;
+	margin-bottom: 80px;
+	text-transform: uppercase;
+	color: #fcfcfc;
+	border: 5px solid #ffffff;
+	padding: 5px 10px;
+	display: inline-block;
+}
+
+#explicacion{
+    width: 70vw;
+    background: white ;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
+
+
+
